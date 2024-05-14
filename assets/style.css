@@ -1,0 +1,15 @@
+.bg-batik {
+    height: 40vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/hero8.jpg);
+    background-size: cover;
+}
+
+.bg-Contact {
+    height: 40vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/contact\ photo.jpg);
+    background-size: cover;
+}
+
+.kontak img {
+    width: 100px;
+}
